@@ -80,60 +80,54 @@ const giftsData = {
             tags: ['Natureza', 'Zen']
         }
     ],
-    marta: [
+    amanda: [
         {
-            icon: '📦',
-            title: 'Caixa Organizadora Pequena Dobrável',
-            description: 'Caixa em algodão-linho bege com zíper duplo, natural e respirável para roupas íntimas e acessórios.',
-            price: 'R$ 56,99',
-            priceRange: '50-60',
-            tags: ['Organização', 'Casa'],
-            link: 'https://www.amazon.com.br/dp/B0FJS89TQX/?coliid=I1HXJRSYP2D66S&colid=1N49P7F30TX98&ref_=list_c_wl_lv_vv_lig_dp_it&th=1'
+            icon: '🩴',
+            title: 'Havaianas 37-38',
+            description: 'Sandálias Havaianas confortáveis e duráveis, numeração 37-38.',
+            price: 'R$ 25 - R$ 50',
+            priceRange: '25-50',
+            tags: ['Calçados', 'Conforto']
         },
         {
-            icon: '📙',
-            title: 'Cartas de um Diabo a seu Aprendiz',
-            description: 'Clássico de C.S. Lewis sobre tentação e natureza humana através de cartas entre demônios.',
-            price: 'R$ 31,74',
-            priceRange: '30-40',
-            tags: ['Literatura', 'Espiritualidade'],
-            link: 'https://www.amazon.com.br/dp/857860184X/?coliid=I32Z8ZEPOOF7IS&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
+            icon: '👚',
+            title: 'Camisa para Malhar',
+            description: 'Roupa esportiva feminina confortável e respirável, ideal para treinos e atividades físicas.',
+            price: 'R$ 30 - R$ 60',
+            priceRange: '30-60',
+            tags: ['Fitness', 'Esporte']
         },
         {
-            icon: '💧',
-            title: 'PRINCIPIA Sérum Ácidos Hialurônicos + Vitamina B5',
-            description: 'Sérum hidratante antissinais com 2% de ácidos hialurônicos e vitamina B5, 30ml.',
-            price: 'R$ 53,46',
-            priceRange: '50-60',
-            tags: ['Beleza', 'Skincare'],
-            link: 'https://www.amazon.com.br/dp/B08N18SRNJ/?coliid=I1JFLVB1SJFD7F&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
+            icon: '🧦',
+            title: 'Meia de Pilates Antiderrapante 37-38',
+            description: 'Meias antiderrapantes para pilates e yoga, numeração 37-38, com aderência e conforto.',
+            price: 'R$ 20 - R$ 40',
+            priceRange: '20-40',
+            tags: ['Fitness', 'Pilates']
         },
         {
-            icon: '📘',
-            title: 'Experiência do Lar (Edição Memorial)',
-            description: 'Como tornar sua casa um lugar de amor e paz, guia prático para transformar o lar.',
-            price: 'R$ 84,21',
-            priceRange: '80-90',
-            tags: ['Casa', 'Família'],
-            link: 'https://www.amazon.com.br/dp/6556896314/?coliid=IKUYPMFHZI8BL&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
+            icon: '💼',
+            title: 'Necessaire',
+            description: 'Necessaire prática e espaçosa para organizar produtos de beleza e higiene pessoal.',
+            price: 'R$ 25 - R$ 50',
+            priceRange: '25-50',
+            tags: ['Organização', 'Beleza']
         },
         {
-            icon: '📕',
-            title: 'A Experiência da Mesa',
-            description: 'O segredo para criar relacionamentos profundos através das refeições compartilhadas.',
-            price: 'R$ 37,20',
-            priceRange: '30-40',
-            tags: ['Relacionamentos', 'Família'],
-            link: 'https://www.amazon.com.br/dp/6586027810/?coliid=IRMEVE4FGD6GZ&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it_im'
+            icon: '🌸',
+            title: 'Difusor/Aromatizador de Ambiente',
+            description: 'Difusor ou aromatizador para perfumar ambientes com fragrâncias agradáveis e duradouras.',
+            price: 'R$ 30 - R$ 60',
+            priceRange: '30-60',
+            tags: ['Casa', 'Aromaterapia']
         },
         {
-            icon: '📗',
-            title: 'Rápido e Devagar: Duas Formas de Pensar',
-            description: 'Daniel Kahneman explora os dois sistemas que moldam nosso pensamento e tomadas de decisão.',
-            price: 'R$ 78,84',
-            priceRange: '70-80',
-            tags: ['Psicologia', 'Desenvolvimento'],
-            link: 'https://www.amazon.com.br/dp/853900383X/?coliid=I2QVQOAUGQTL46&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it_im'
+            icon: '🕯️',
+            title: 'Vela Aromática',
+            description: 'Vela perfumada decorativa para criar ambiente acolhedor e relaxante.',
+            price: 'R$ 20 - R$ 45',
+            priceRange: '20-45',
+            tags: ['Casa', 'Decoração']
         }
     ],
     jamenson: [
@@ -210,6 +204,72 @@ const giftsData = {
             link: 'https://www.amazon.com.br/dp/8550825603/?coliid=I3U4SLLJB3QLTI&colid=3LZ81WULJNSZ&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
         }
     ],
+    marta: [
+        {
+            icon: '📦',
+            title: 'Caixa Organizadora Pequena Dobrável',
+            description: 'Caixa em algodão-linho bege com zíper duplo, natural e respirável para roupas íntimas e acessórios.',
+            price: 'R$ 56,99',
+            priceRange: '50-60',
+            tags: ['Organização', 'Casa'],
+            link: 'https://www.amazon.com.br/dp/B0FJS89TQX/?coliid=I1HXJRSYP2D66S&colid=1N49P7F30TX98&ref_=list_c_wl_lv_vv_lig_dp_it&th=1'
+        },
+        {
+            icon: '📙',
+            title: 'Cartas de um Diabo a seu Aprendiz',
+            description: 'Clássico de C.S. Lewis sobre tentação e natureza humana através de cartas entre demônios.',
+            price: 'R$ 31,74',
+            priceRange: '30-40',
+            tags: ['Literatura', 'Espiritualidade'],
+            link: 'https://www.amazon.com.br/dp/857860184X/?coliid=I32Z8ZEPOOF7IS&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
+        },
+        {
+            icon: '💧',
+            title: 'PRINCIPIA Sérum Ácidos Hialurônicos + Vitamina B5',
+            description: 'Sérum hidratante antissinais com 2% de ácidos hialurônicos e vitamina B5, 30ml.',
+            price: 'R$ 53,46',
+            priceRange: '50-60',
+            tags: ['Beleza', 'Skincare'],
+            link: 'https://www.amazon.com.br/dp/B08N18SRNJ/?coliid=I1JFLVB1SJFD7F&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
+        },
+        {
+            icon: '📘',
+            title: 'Experiência do Lar (Edição Memorial)',
+            description: 'Como tornar sua casa um lugar de amor e paz, guia prático para transformar o lar.',
+            price: 'R$ 84,21',
+            priceRange: '80-90',
+            tags: ['Casa', 'Família'],
+            link: 'https://www.amazon.com.br/dp/6556896314/?coliid=IKUYPMFHZI8BL&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
+        },
+        {
+            icon: '📕',
+            title: 'A Experiência da Mesa',
+            description: 'O segredo para criar relacionamentos profundos através das refeições compartilhadas.',
+            price: 'R$ 37,20',
+            priceRange: '30-40',
+            tags: ['Relacionamentos', 'Família'],
+            link: 'https://www.amazon.com.br/dp/6586027810/?coliid=IRMEVE4FGD6GZ&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it_im'
+        },
+        {
+            icon: '📗',
+            title: 'Rápido e Devagar: Duas Formas de Pensar',
+            description: 'Daniel Kahneman explora os dois sistemas que moldam nosso pensamento e tomadas de decisão.',
+            price: 'R$ 78,84',
+            priceRange: '70-80',
+            tags: ['Psicologia', 'Desenvolvimento'],
+            link: 'https://www.amazon.com.br/dp/853900383X/?coliid=I2QVQOAUGQTL46&colid=1N49P7F30TX98&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it_im'
+        }
+    ],
+    heitor: [
+        {
+            icon: '👕',
+            title: 'Camiseta Masculina Tamanho G',
+            description: 'Camiseta de qualidade em tecido confortável e durável. Preferências: verde escuro, verde militar ou vinho. Sugestões: Taco (tecido gostoso, cor não desbota), C&A, Riachuelo ou Renner.',
+            price: 'R$ 30 - R$ 60',
+            priceRange: '30-60',
+            tags: ['Moda', 'Vestuário']
+        }
+    ],
     ingrid: [
         {
             icon: '🖌️',
@@ -273,66 +333,6 @@ const giftsData = {
             priceRange: '50-60',
             tags: ['Beleza', 'Skincare'],
             link: 'https://www.amazon.com.br/dp/B07M9CRZZZ/?coliid=I2R6DSN16Z2YJ0&colid=3JBCT8QVI1IQM&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it'
-        }
-    ],
-    heitor: [
-        {
-            icon: '👕',
-            title: 'Camiseta Masculina Tamanho G',
-            description: 'Camiseta de qualidade em tecido confortável e durável. Preferências: verde escuro, verde militar ou vinho. Sugestões: Taco (tecido gostoso, cor não desbota), C&A, Riachuelo ou Renner.',
-            price: 'R$ 30 - R$ 60',
-            priceRange: '30-60',
-            tags: ['Moda', 'Vestuário']
-        }
-    ],
-    amanda: [
-        {
-            icon: '🩴',
-            title: 'Havaianas 37-38',
-            description: 'Sandálias Havaianas confortáveis e duráveis, numeração 37-38.',
-            price: 'R$ 25 - R$ 50',
-            priceRange: '25-50',
-            tags: ['Calçados', 'Conforto']
-        },
-        {
-            icon: '👚',
-            title: 'Camisa para Malhar',
-            description: 'Roupa esportiva feminina confortável e respirável, ideal para treinos e atividades físicas.',
-            price: 'R$ 30 - R$ 60',
-            priceRange: '30-60',
-            tags: ['Fitness', 'Esporte']
-        },
-        {
-            icon: '🧦',
-            title: 'Meia de Pilates Antiderrapante 37-38',
-            description: 'Meias antiderrapantes para pilates e yoga, numeração 37-38, com aderência e conforto.',
-            price: 'R$ 20 - R$ 40',
-            priceRange: '20-40',
-            tags: ['Fitness', 'Pilates']
-        },
-        {
-            icon: '💼',
-            title: 'Necessaire',
-            description: 'Necessaire prática e espaçosa para organizar produtos de beleza e higiene pessoal.',
-            price: 'R$ 25 - R$ 50',
-            priceRange: '25-50',
-            tags: ['Organização', 'Beleza']
-        },
-        {
-            icon: '🌸',
-            title: 'Difusor/Aromatizador de Ambiente',
-            description: 'Difusor ou aromatizador para perfumar ambientes com fragrâncias agradáveis e duradouras.',
-            price: 'R$ 30 - R$ 60',
-            priceRange: '30-60',
-            tags: ['Casa', 'Aromaterapia']
-        },
-        {
-            icon: '🕯️',
-            title: 'Vela Aromática',
-            description: 'Vela perfumada decorativa para criar ambiente acolhedor e relaxante.',
-            price: 'R$ 20 - R$ 45',
-            priceRange: '20-45',
-            tags: ['Casa', 'Decoração']
         }
     ]
 };
